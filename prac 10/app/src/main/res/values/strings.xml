@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="userName">Введите имя пользователя</string>
+    <string name="button">Далее</string>
+</resources>
